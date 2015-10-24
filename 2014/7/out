@@ -1,0 +1,23 @@
+0000 2800 store regd
+0001 0014
+0002 2800 store regd
+0003 0015
+0004 1100 load rega
+0005 0014
+0006 1200 load regb
+0007 0015
+0008 4127 bif inca decb bnz
+0009 0008
+0010 2100 store rega
+0011 0016
+0012 0000 halt
+same as above
+0017 0001
+0018 0002
+0019 0003
+same as above
+0021 0004
+same as above
+0025 0000 halt
+same as above
+0999 0000 halt
