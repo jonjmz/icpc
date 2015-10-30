@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.math.*;
-public class aout{
+class aout{
 	public static void main(String[] args){
 		Scanner s = new Scanner(System.in);
 		int amount = s.nextInt();
